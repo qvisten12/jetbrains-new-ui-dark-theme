@@ -1,0 +1,49 @@
+{
+  "name": "jetbrains-new-ui-dark-theme",
+  "displayName": "JetBrains New UI Dark Theme",
+  "description": "A theme for Visual Studio Code that aims to replicate the new color scheme of Jetbrains new UI dark theme.",
+  "version": "1.5.0",
+  "publisher": "Qvist",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qvisten12/jetbrains-new-ui-dark-theme"
+  },
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "icon": "icon.png",
+  "keywords": [
+    "theme",
+    "dark",
+    "dark theme",
+    "new theme",
+    "jetbrains",
+    "new jetbrains theme",
+    "new jetbrains ui theme",
+    "Darcula",
+    "webstorm dark theme",
+    "intellij dark theme",
+    "Jetbrains dark theme",
+    "webstorm new dark",
+    "webstorm",
+    "intellij",
+    "intellij new dark",
+    "Jetbrains new dark",
+    "new dark",
+    "jetbrains new dark",
+    "jetbrains new dark theme",
+    "jetbrains new ui"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "JetBrains New UI Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/JetBrains New UI Dark-color-theme.json"
+      }
+    ]
+  }
+}

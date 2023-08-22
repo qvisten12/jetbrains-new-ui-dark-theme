@@ -1,0 +1,59 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "name": "JetBrains New UI Dark Theme",
+  "include": "./dark_modern.json",
+  "tokenColors": [
+    {
+      "scope": [
+        "variable.argument.css",
+        "punctuation.definition.tag",
+        "entity.name.tag",
+        "support.function.misc",
+        "meta.function.variable.css",
+        "meta.property-value.css support.function",
+        "meta.selector.css",
+        "entity.other.attribute-name.css"
+      ],
+      "settings": {
+        "foreground": "#D5B778"
+      }
+    },
+    {
+      "scope": ["meta.tag.custom entity.name.tag.html"],
+      "settings": {
+        "foreground": "#2fbaa3"
+      }
+    },
+    {
+      "scope": [
+        "keyword.other.unit",
+        "punctuation.separator.key-value.html",
+        "meta.tag.attributes keyword.operator.assignment"
+      ],
+      "settings": {
+        "foreground": "#6AAB73"
+      }
+    },
+    {
+      "scope": ["support.type.property-name.json"],
+      "settings": {
+        "foreground": "#C77DBB"
+      }
+    },
+    {
+      "scope": ["comment.block.documentation", "comment.block.javadoc"],
+      "settings": {
+        "foreground": "#5F826B"
+      }
+    },
+    {
+      "scope": [
+        "entity.other.attribute-name",
+        "support.type.property-name.css"
+      ],
+      "settings": {
+        "foreground": "#BABABA"
+      }
+    }
+  ]
+}
