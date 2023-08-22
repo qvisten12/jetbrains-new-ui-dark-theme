@@ -21,18 +21,18 @@
     "new jetbrains theme",
     "new jetbrains ui theme",
     "Darcula",
-    "webstorm dark theme",
-    "intellij dark theme",
-    "Jetbrains dark theme",
-    "webstorm new dark",
+    "Jetbrains new dark",
     "webstorm",
+    "Jetbrains dark theme",
     "intellij",
     "intellij new dark",
-    "Jetbrains new dark",
     "new dark",
-    "jetbrains new dark",
     "jetbrains new dark theme",
-    "jetbrains new ui"
+    "jetbrains new ui",
+    "webstorm new dark",
+    "webstorm dark theme",
+    "intellij dark theme"
+
   ],
   "categories": [
     "Themes"
