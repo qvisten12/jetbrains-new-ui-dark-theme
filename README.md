@@ -1,4 +1,6 @@
 # JetBrains New UI Dark Theme
+<img width="1200" alt="new_ui-2x-12" src="https://github.com/qvisten12/jetbrains-new-ui-dark-theme/assets/75997643/c46e0711-4794-4fc6-a3e7-77a13f99ac84">
+
 
 A theme for VSCode that aims to replicate the new color scheme of Jetbrains new UI dark theme.
 
