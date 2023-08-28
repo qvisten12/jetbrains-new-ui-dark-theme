@@ -2,7 +2,7 @@
   "name": "jetbrains-new-ui-dark-theme",
   "displayName": "JetBrains New UI Dark Theme",
   "description": "A theme for Visual Studio Code that aims to replicate the new color scheme of Jetbrains new UI dark theme.",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "publisher": "Qvist",
   "repository": {
     "type": "git",
