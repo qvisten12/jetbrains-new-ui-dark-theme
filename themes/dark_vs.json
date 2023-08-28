@@ -71,13 +71,18 @@
     },
     {
       "scope": [
-        "constant.numeric",
         "variable.other.enummember",
         "keyword.operator.plus.exponent",
         "keyword.operator.minus.exponent"
       ],
       "settings": {
         "foreground": "#2AACB8"
+      }
+    },
+    {
+      "scope": ["constant.numeric"],
+      "settings": {
+        "foreground": "#DDA52D"
       }
     },
     {
